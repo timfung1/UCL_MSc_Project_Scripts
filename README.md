@@ -3,6 +3,7 @@ Scripts uploaded include:
 - collecting the inferior cerebellum reference region
 - registering and resampling of Freesurfer parcellations into native dMRI and PET space
 - calculation of regional mean values
+- calculation of tau SUVR values
 -  statistical analysis R script, calculating mean differences in tau SUVR between mutation carriers and non mutatation carriers,
     and correlation analysis between tau SUVR and imaging metrics including:
      - Orientation Dispersion index (ODI)
